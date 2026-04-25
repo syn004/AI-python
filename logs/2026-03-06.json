@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-03-06T10:25:32.368806",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "213123",
+      "answer": "您的问题似乎只包含了一串数字（213123）。请提供更多信息或具体化您的请求以便我能更好地帮助您。"
+    }
+  },
+  {
+    "timestamp": "2026-03-06T10:38:27.721104",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "你好吗",
+      "answer": "你好！我很好，随时准备着为你提供帮助。你最近怎么样？"
+    }
+  }
+]

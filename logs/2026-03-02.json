@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-03-02T10:43:37.996500",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "帮我算一下 4 加上 5 等于多少？",
+      "answer": "Agent 思考出错: 1 validation error for add\nkwargs\n  Input should be a valid dictionary [type=dict_type, input_value='4, 5', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.12/v/dict_type"
+    }
+  },
+  {
+    "timestamp": "2026-03-02T10:51:50.069626",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "帮我算一下 4 加上 5 等于多少",
+      "answer": "4 加上 5 的结果是 9。"
+    }
+  },
+  {
+    "timestamp": "2026-03-02T10:57:15.409324",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "帮我算一下 4 乘 5 等于多少",
+      "answer": "4 乘以 5 的结果是 20。"
+    }
+  },
+  {
+    "timestamp": "2026-03-02T13:47:45.296591",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "3+5",
+      "answer": "3加5的结果是8。"
+    }
+  },
+  {
+    "timestamp": "2026-03-02T13:47:58.347586",
+    "type": "agent_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "query": "3*5",
+      "answer": "3乘以5的结果是15。"
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "2026-02-05T09:58:28.817107",
+    "type": "text_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "user_query": "你好",
+      "ai_response": "你好！有什么可以帮助你的吗？",
+      "tokens": {
+        "input_tokens": 9,
+        "output_tokens": 7,
+        "total_tokens": 16
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:06:39.850752",
+    "type": "text_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "user_query": "在吗",
+      "ai_response": "在的，有什么可以帮助您的吗？",
+      "tokens": {
+        "input_tokens": 10,
+        "output_tokens": 8,
+        "total_tokens": 18
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:07:10.872743",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:07:22.481298",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "你在干什么？",
+      "ai_response": "我在这里是为了帮助您！我可以回答您的问题、提供信息、提供建议或者协助您完成各种任务。请问有什么我可以帮到您的？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:07:58.134120",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "请介绍一下前问3 max和千问max区别？",
+      "ai_response": "您提到的“前问3 max”和“千问max”，可能是指阿里巴巴云开发的不同版本的语言模型。不过，根据我所掌握的信息，“前问3 max”并不是一个广为人知的产品名称，可能存在一些混淆或误传。而“千问”系列是阿里云推出的一系列大规模语言模型，包括了不同的版本和技术迭代。\n\n- **千问**（Qwen）：这是阿里云最新推出的大规模语言模型系列之一，旨在提供高质量的文本生成、问答、代码编写等能力。千问模型经过了大量的训练，并且在不断地更新迭代中提高其性能和服务质量。\n\n如果您是指某个特定版本或者功能上的比较，比如“千问1.0”与“千问2.0”之间的差异，那么随着技术的进步，新版本通常会在以下几个方面有所改进：\n\n1. **模型规模**：后续版本可能会使用更大规模的数据集进行训练，从而支持更复杂的任务处理。\n2. **性能提升**：通过优化算法及架构设计，新版本往往能够提供更快的响应速度以及更高的准确率。\n3. **功能增强**：随着用户需求的变化和技术的发展，新版本可能会增加新的功能特性，如更好的多轮对话支持、更丰富的知识库接入等。\n4. **用户体验**：持续改善交互界面的设计，使得用户更容易上手并获得满意的体验。\n\n如果您的问题中提到的“前问3 max”指的是另一个具体的产品或服务，请提供更多背景信息，这样我能更准确地为您提供所需的信息。希望这些信息对您有所帮助！如果有其他疑问，欢迎继续提问。"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:12:39.071465",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的先生，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:12:39.578553",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的先生，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:12:50.108051",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "你在干什么？",
+      "ai_response": "我在这里主要是为了帮助您。我可以回答问题、提供信息、进行对话等。请问有什么我可以帮到您的吗？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:14:10.317258",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:14:10.898790",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的先生，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:14:51.309941",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:14:51.857357",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:15:12.525514",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "你说我们就用。",
+      "ai_response": "明白了，您是想说我们就用中文进行交流对吗？如果是这样的话，当然可以。请问有什么我可以帮您的呢？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:15:34.226962",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "跟预约人，你看一下那个应个。",
+      "ai_response": "您好，看起来信息可能有些不清楚。您是想让我帮您查看某个预约的信息，还是想要回应某个预约请求？或者可能是其他意思？请您详细说明一下，这样我才能更好地帮助到您。"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:15:58.439977",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T10:16:10.288044",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "嗯。",
+      "ai_response": "看起来您可能需要一点时间来组织您的问题，没关系的。当您准备好时，请告诉我您需要什么帮助或想聊些什么。无论是寻求信息、解决问题还是只是想要聊天，我都在这里帮您。"
+    }
+  }
+]

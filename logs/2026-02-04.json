@@ -1,0 +1,141 @@
+[
+  {
+    "timestamp": "2026-02-04T10:42:59.264876",
+    "type": "text_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "user_query": "123",
+      "ai_response": "您好！看起来您输入了数字“123”。请问您需要关于这个数字的帮助，还是有其他问题想要咨询呢？如果能提供更多信息，我会尽力帮到您。",
+      "tokens": {
+        "input_tokens": 11,
+        "output_tokens": 39,
+        "total_tokens": 50
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:43:22.779024",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的先生，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:47:30.071960",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:48:45.567673",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:51:39.812668",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:51:39.932529",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:53:27.426023",
+    "type": "voice_tts_only",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "text_to_speech": "尊敬的女士，请问您需要什么帮助？"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:53:38.185872",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "跟这个。",
+      "ai_response": "您好！看起来您的消息可能没有完全发送过来。您能提供更多的信息或上下文吗？这样我才能更好地帮助您。谢谢！"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:54:04.074768",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "是平时。",
+      "ai_response": "您好！看起来您的消息还是不太清楚。您能否详细说明一下需要帮助的具体内容呢？比如，您是需要关于某个特定主题的信息，还是需要解决某个具体问题？这样我才能更准确地为您提供帮助。谢谢！"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:54:34.502948",
+    "type": "realtime_voice_dialogue",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "event": "conversation",
+      "user_speech_text": "想问题。",
+      "ai_response": "好的，我明白了。您是想要思考或讨论某个问题。请告诉我您具体想讨论的问题是什么？这样我可以更好地帮助您。无论是工作上的问题、生活中的困惑，还是其他任何话题，我都会尽力提供帮助。"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T14:24:13.146801",
+    "type": "text_chat",
+    "client": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ip": "127.0.0.1"
+    },
+    "content": {
+      "user_query": "你好",
+      "ai_response": "你好！有什么我可以帮助你的吗？",
+      "tokens": {
+        "input_tokens": 9,
+        "output_tokens": 8,
+        "total_tokens": 17
+      }
+    }
+  }
+]
