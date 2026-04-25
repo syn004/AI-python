@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  # MCP 工具服务器
+  mcp-server:
+    build: .
+    command: uv run mcp_server.py
+    # 同样在内部网络运行，暴露给 main 容器
+
+  # 主应用
+  fastapi-app:
+    build: .
+    command: uv run main.py
+    env_file:
+      - .env  # 自动读取.env 文件并注入到容器环境变量中
+    environment:
+      - MCP_SERVER_URL=http://mcp-server:8000/sse
+      - PORT=3000 # 显式声明端口
+      - NODE_ENV=production
+    ports:
+      # 将宿主机的 3000 端口映射到容器的 3000 端口
+      - "3000:3000"
+    depends_on:
+      - mcp-server
